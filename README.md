@@ -1,1 +1,1 @@
-mediocre python programmer
+adrenaline junkie dev
