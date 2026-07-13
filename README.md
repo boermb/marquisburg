@@ -14,7 +14,7 @@ My flagship project: a from-scratch systems language written in C99 with no LLVM
 - A GNN-based ML IR optimizer (`--ml-opt`) that found 54 verified expression simplifications the classical optimizer can't reach
 - An explainable optimizer (`--explain`, `@simd!` contracts) and a full LSP
 
-The backend is split into a standalone, frontend-agnostic library, [`mettle-core` / `libmtlc`](https://github.com/The-Mettle-Project), with a `calc` example, CI gate, and embedding docs. On top of it sits `m-c99`, a C99 compiler capable of building a mainline Linux kernel to a bootable image.
+The backend is split into a standalone, frontend-agnostic library, [`mettle-core` / `libmtlc`](https://github.com/The-Mettle-Project), with a `calc` example, CI gate, and embedding docs. On top of it sits `m-c99`, a C99 compiler.
 
 ## Upstream and open source
 
