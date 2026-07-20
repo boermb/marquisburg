@@ -1,6 +1,7 @@
 # Hi, I'm Marquis
 
 Systems programmer from Cape Town. I build compilers, runtimes, and language tooling, mostly from scratch, mostly in C99.
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 
