@@ -1,6 +1,8 @@
 # Hi, I'm Marquis
 
 Systems programmer from Cape Town. I build compilers, runtimes, and language tooling, mostly from scratch, mostly in C99.
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 
 ## What I'm building
 
@@ -19,13 +21,6 @@ The backend is split into a standalone, frontend-agnostic library, [`mettle-core
 ## Upstream and open source
 
 - MLIR crash fix merged upstream into llvm-project (will be doing some more work there in the future)
-
-## Tools of the trade
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-A41E22?style=flat&logo=vulkan&logoColor=white)
 
 Compilers, IR design, code generation, GPU programming, LLM inference internals, and low-level systems work.
 
