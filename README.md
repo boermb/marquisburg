@@ -4,7 +4,7 @@ Systems programmer from Cape Town. I build compilers, runtimes, and language too
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9C033A?style=flat&logo=cplusplus&logoColor=white)
 
 ## What I'm building
 
