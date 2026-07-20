@@ -19,5 +19,3 @@ The backend is split into a standalone, frontend-agnostic library, [`mettle-core
 - MLIR crash fix merged upstream into llvm-project (will be doing some more work there in the future)
 
 Compilers, IR design, code generation, GPU programming, LLM inference internals, and low-level systems work.
-
-Member of the SAWMGA and 3 time tournament winner on my Clydesdale-Boerperd, Wallace. StarCraft 2 (Protoss) and Overwatch 2 (Reinhardt). Four dachshunds.
